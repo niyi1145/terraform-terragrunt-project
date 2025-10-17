@@ -14,6 +14,7 @@ This directory contains comprehensive documentation for the Terraform + Terragru
 
 ### **🔧 Operations & Commands**
 - **[Command Reference](COMMAND_REFERENCE.md)** - Complete command history and reference guide
+- **[Complete AWS Cleanup](COMPLETE_AWS_CLEANUP.md)** - Step-by-step AWS resource cleanup guide
 - **[Scripts Documentation](../scripts/README.md)** - Utility scripts and automation tools
 
 ### **📊 Project Status & History**
@@ -53,6 +54,7 @@ This directory contains comprehensive documentation for the Terraform + Terragru
 | [Architecture](architecture.md) | ✅ Complete | Oct 17, 2025 | System design and components |
 | [Getting Started](getting-started.md) | ✅ Complete | Oct 17, 2025 | Setup and deployment guide |
 | [Command Reference](COMMAND_REFERENCE.md) | ✅ Complete | Oct 17, 2025 | Complete command history |
+| [Complete AWS Cleanup](COMPLETE_AWS_CLEANUP.md) | ✅ Complete | Oct 17, 2025 | Step-by-step AWS cleanup guide |
 | [Scripts README](../scripts/README.md) | ✅ Complete | Oct 17, 2025 | Scripts and automation tools |
 | [Destruction Summary](../DESTRUCTION_SUMMARY.md) | ✅ Complete | Oct 17, 2025 | Infrastructure destruction docs |
 | [Module Documentation](modules.md) | 📋 Planned | - | Detailed module reference |

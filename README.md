@@ -171,6 +171,7 @@ terragrunt apply
 - **[Getting Started Guide](docs/getting-started.md)** - Setup and first deployment
 - **[Architecture Documentation](docs/architecture.md)** - System architecture and design
 - **[Command Reference](docs/COMMAND_REFERENCE.md)** - Complete command history and reference
+- **[Complete AWS Cleanup](docs/COMPLETE_AWS_CLEANUP.md)** - Step-by-step AWS resource cleanup guide
 - **[Scripts Documentation](scripts/README.md)** - Utility scripts and automation tools
 - **[Destruction Summary](DESTRUCTION_SUMMARY.md)** - Infrastructure destruction documentation
 - **[Module Documentation](docs/modules.md)** - Detailed module reference
