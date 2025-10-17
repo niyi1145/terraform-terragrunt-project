@@ -169,6 +169,10 @@ terragrunt apply
 ## 📚 Documentation
 
 - **[Getting Started Guide](docs/getting-started.md)** - Setup and first deployment
+- **[Architecture Documentation](docs/architecture.md)** - System architecture and design
+- **[Command Reference](docs/COMMAND_REFERENCE.md)** - Complete command history and reference
+- **[Scripts Documentation](scripts/README.md)** - Utility scripts and automation tools
+- **[Destruction Summary](DESTRUCTION_SUMMARY.md)** - Infrastructure destruction documentation
 - **[Module Documentation](docs/modules.md)** - Detailed module reference
 - **[Environment Guide](docs/environments.md)** - Environment-specific configurations
 - **[Security Guide](docs/security.md)** - Security best practices
