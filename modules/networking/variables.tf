@@ -316,3 +316,4 @@ variable "route53_resolver_rule_target_ips" {
   }))
   default = []
 }
+

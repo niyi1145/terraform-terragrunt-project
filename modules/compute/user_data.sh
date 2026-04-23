@@ -392,3 +392,4 @@ aws logs put-log-events \
     --region us-east-1 || true
 
 log "Setup completed and logged to CloudWatch"
+

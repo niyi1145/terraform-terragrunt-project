@@ -402,3 +402,4 @@ output "estimated_monthly_cost" {
                           (var.performance_insights_enabled ? 0.60 : 0)
   }
 }
+

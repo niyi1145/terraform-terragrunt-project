@@ -549,3 +549,4 @@ fi
 if [ $# -gt 0 ] && [ "$1" != "full" ]; then
     generate_report
 fi
+

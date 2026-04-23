@@ -409,3 +409,4 @@ resource "aws_cloudwatch_metric_alarm" "instance_health" {
     Type = "CloudWatch Alarm"
   })
 }
+

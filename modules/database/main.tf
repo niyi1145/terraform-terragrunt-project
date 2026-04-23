@@ -355,3 +355,4 @@ resource "aws_cloudwatch_event_target" "db_events" {
   target_id = "SendToSNS"
   arn       = aws_sns_topic.db_notifications[0].arn
 }
+

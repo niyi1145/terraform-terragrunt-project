@@ -26,3 +26,4 @@ terraform --version
 
 echo ""
 echo "=== SCRIPTS TEST COMPLETED ==="
+

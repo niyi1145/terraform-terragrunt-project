@@ -160,3 +160,4 @@ The infrastructure can be easily recreated using the same Terragrunt configurati
 ---
 
 **Destruction completed successfully! 🎉**
+

@@ -326,3 +326,4 @@ resource "aws_vpc_endpoint" "dynamodb" {
     Type = "VPC Endpoint"
   })
 }
+
